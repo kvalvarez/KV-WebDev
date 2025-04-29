@@ -1,0 +1,22 @@
+.contact-me h2, h3,
+.story-section .story-item i,
+.story-section .story-text h3,
+.input-section .project-item-inner .social-logo a i,
+.input-section .social-logo a i,
+.input-section .input i.ri-flower-fill,
+.input-section .input h3,
+.header .nav ul li a.active,
+.header .nav ul li a:hover {
+    color: #FF6B6B;
+}
+
+.input-section .media-links a i,  
+.input-section .input img{
+    border-color:  #FF6B6B;
+}
+
+.project-section .filter-btn.active,
+.input-section .media-links a:hover i{
+    background-color: #fb839e;
+}
+
